@@ -1,6 +1,6 @@
-Kapitel 1
+= Kapitel 1
 
-Der Anfang
+== Der Anfang
 
 Ich kam an einem regnerischen Freitag zur Welt. Das hat mir aber nicht
 geschadet, im Gegenteil. Ich bin ein durch und durch fröhlicher Mensch geworden.
