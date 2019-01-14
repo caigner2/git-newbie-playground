@@ -1,0 +1,48 @@
+= Geheimnis um Burg Fürchtenstein
+:author: Christian Aigner 
+:email: christian.aigner@gmx.net
+:revnumber: 1.0
+:revdate: {docdate}
+:revremark: 
+:version-label: Fassung
+:sectnums:
+:pagenums:
+:toc: left
+
+include::Kapitel01.adoc[]
+
+<<<
+
+include::Kapitel02.adoc[]
+
+<<<
+
+include::Kapitel03.adoc[]
+
+<<<
+
+include::Kapitel04.adoc[]
+
+<<<
+
+include::Kapitel05.adoc[]
+
+<<<
+
+include::Kapitel06.adoc[]
+
+<<<
+
+include::Kapitel07.adoc[]
+
+<<<
+
+include::Kapitel08.adoc[]
+
+<<<
+
+include::Kapitel09.adoc[]
+
+<<<
+
+include::Kapitel10.adoc[]
